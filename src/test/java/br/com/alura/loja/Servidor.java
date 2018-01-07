@@ -17,6 +17,7 @@ public class Servidor {
     	
     	System.in.read();
     	server.stop();
+    	System.out.println("Servidor parado");
     	
     }
 
